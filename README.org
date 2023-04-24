@@ -1,0 +1,7 @@
+#+title: Redis in Rust
+
+build my own redis in rust
+
+Reference:
+- [[https://build-your-own.org/redis]]
+- [[https://redis.io/]]
